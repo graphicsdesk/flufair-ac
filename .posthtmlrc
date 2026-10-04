@@ -7,12 +7,94 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Columbia Health expanded its annual flu fair this year, adding a second vaccination location and an extra day. Eligible affiliates have one day left of the four-day fair to stop by and get vaccinated."
+          },
+          {
+            "type": "text",
+            "value": "The expansion comes after the number of vaccines given at the fair fell for three straight years. Columbia Health administered 5,952 vaccines in 2025, about 80 percent of them to students, Columbia Health Communications Specialist Kirsten McCann wrote in a statement to Spectator. That is down more than a third from the 9,165 given in 2022, according to Columbia Health’s annual report. The department hopes to give out more this year."
+          },
+          {
+            "type": "text",
+            "value": "The fair opened Sept. 25 at John Jay Dining Hall and continued at Dodge Fitness Center on Tuesday and Wednesday. The fair’s final day will be on Oct. 2 at John Jay Dining Hall. Vaccines will be available for eligible affiliates from 9 a.m. to 5 p.m."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "flu_fair.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Last year, Columbia Health held the fair as a three-day event in the Low Library Rotunda, followed by a pop-up event at Lerner Hall two weeks later."
+          },
+          {
+            "type": "text",
+            "value": "“Last year it was just so terribly organized that I wasn’t able to get it because it took forever,” Aisling O’Connor, CC ’27, said. “But it seems like this is a lot better and they’re doing different locations this year.”"
+          },
+          {
+            "type": "text",
+            "value": "To get vaccinated, Columbia affiliates, including students, faculty, and staff, must show their Columbia IDs at a vaccine site. Barnard and Columbia University Irving Medical Center students are ineligible for the fair, but they can get vaccines on their respective campuses through Primary Care Health Services and Student Health on Haven, respectively."
+          },
+          {
+            "type": "text",
+            "value": "“We ranked #3 among large schools in the 2025 Alana Foundation Flu Vaccine Challenge and hope to administer far more this year,” McCann wrote in the statement."
+          },
+          {
+            "type": "text",
+            "value": "Melanie Bernitz, executive vice president for University Life and well-being, wrote in a statement to Spectator through McCann that the flu fair is “one of the institution’s largest and most visible public health initiatives, providing convenient, no-cost access to influenza vaccination for students, faculty, and staff.”"
+          },
+          {
+            "type": "text",
+            "value": "Anna Lynch-McNamara, director of business operations at the Law School, said at Tuesday’s fair that she had gotten her vaccine at the flu fair “too many times to mention.”"
+          },
+          {
+            "type": "text",
+            "value": "“It’s great,” Lynch-McNamara said. “Just walk out and get it here versus getting in my car and driving to CVS.”"
+          },
+          {
+            "type": "text",
+            "value": "Rachel Tang, CC ’27, a student volunteer for this year’s flu fair, told Spectator that the keychain and lollipop that affiliates get after their shot give them an extra reason to come."
+          },
+          {
+            "type": "text",
+            "value": "Columbia students can also receive their vaccine through medical services, and affiliates on the Columbia health insurance plan can get no-cost flu vaccines from nearby pharmacies, Columbia Health wrote in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Registered nurse Nadelie Fenel, who worked the fair on Tuesday and Wednesday, told Spectator that many of the nurses administering the vaccines have been brought in through an outside agency."
+          },
+          {
+            "type": "text",
+            "value": "“A lot of us love doing this because it’s less hectic than the hospitals we’re used to,” Fenel said. “This is definitely a great idea for you guys, especially being in school or working here, and not needing to go anywhere else but here to get your vaccine.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Leah Kreisler can be contacted at </i><a href=\"mailto:leah.kreisler@columbiaspectator.com\"><i>leah.kreisler@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Madeline Ngo can be contacted at </i><a href=\"mailto:mMadeline.nNgo@columbiaspectator.com\"><i>madeline.ngo@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Columbia Health expands annual flu fair outreach to additional locations and day",
+        "dek": "Oct. 2 is the last day for eligible students to get the shot.",
+        "date": "April 2, 2025",
+        "byline": "By Leah Kreisler and Madeline Ngo",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/matthew-lombardi/\">Matthew Lombardi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/C57G4NLSYBFDBBV5L7VKTLJUUU.jpg",
+        "cover_caption": "Conor Cavens",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Ha4OtH-DwKM6Bg3LsL0qBu3YQ5TOHCO3MkAXZKOpvq4/edit?usp=sharing"
       }
     }
   }
